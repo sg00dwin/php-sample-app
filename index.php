@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Test PHP passed</title>
+	<title>PHPDay</title>
 </head>
 <body>
 <h1>PHP is working</h1>
