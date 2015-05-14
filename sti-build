@@ -1,0 +1,1 @@
+sti build https://github.com/marekjelen/php-sample-app openshift/php-55-centos7 phpday-sti
