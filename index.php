@@ -3,7 +3,7 @@
 	<title>PHPDay</title>
 </head>
 <body>
-<h1>PHP is working</h1>
+<h1>PHP is working and Steve changed it</h1>
 <p>
 <?php
 	phpinfo();
